@@ -8,7 +8,7 @@
 <body>
 
 <div style="margin-bottom: 20px;">
-  <h2 style="font-size: 24px; margin-bottom: 10px;">Flutter Developer 🧑‍💻</h2>
+  <h2 style="font-size: 24px; margin-bottom: 10px;">FullStack App Developer 🧑‍💻</h2>
   <p style="font-size: 16px;">Crafting Seamless Apps from Scratch with Modern UI/UX Standards 📱</p>
 </div>
 
@@ -29,9 +29,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" style="margin-right: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo" style="margin-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="google cloud logo" style="margin-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
   </div>
 </div>
+
+
+
 
 <div style="margin-bottom: 20px;">
   <a href="#" target="_blank" style="text-decoration: none; margin-right: 10px;">
@@ -45,7 +51,7 @@
 <div style="margin-bottom: 20px;"></div>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app?username=riyashah22&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" style="margin-right: 20px;" />
+<!--   <img src="https://github-profile-trophy.vercel.app?username=riyashah22&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" style="margin-right: 20px;" /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyashah22&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
