@@ -19,7 +19,7 @@
 
 <div style="clear: both; margin-bottom: 20px;"></div>
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIzdDd1OW9mbm5sNnd1d2g3dWF0OTB0NDhyMzlsOGdja2EzOWoybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" style="margin-left: 20px;" />
+
 
 <div style="margin-bottom: 20px;">
   <h3 style="font-size: 20px; margin-bottom: 10px;">Technologies I Work With:</h3>
@@ -37,7 +37,7 @@
 </div>
 
 
-
+<div style="clear: both; margin-bottom: 90px;"></div>
 
 <div style="margin-bottom: 20px;">
   <a href="#" target="_blank" style="text-decoration: none; margin-right: 10px;">
