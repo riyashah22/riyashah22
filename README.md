@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya Shah</h1>
-<h3 align="center">AI/ML and Full Stack Developer | Data Engineering Specialist</h3>
+<h3 align="center">Data Engineering/Analyst Specialist</h3>
 
 - 🔭 **Currently working at:** Talview as a Software Developer Intern focusing on AI-powered behavioral analysis and scalable data pipelines.  
 - 💡 **Expertise in:** Python, OpenCV, machine learning, Meltano, dbt, ClickHouse, Flutter, FastAPI, and REST APIs.  
